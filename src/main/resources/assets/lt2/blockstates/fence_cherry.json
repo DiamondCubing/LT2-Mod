@@ -1,9 +1,17 @@
 {
-    "variants": {
-        "axis=y":    { "model": "lt2:log_cherry" },
-        "axis=z":     { "model": "lt2:log_cherry", "x": 90 },
-        "axis=x":     { "model": "lt2:log_cherry", "x": 90, "y": 90 },
-        "axis=none":   { "model": "lt2:cherry_bark" }
-        "normal":   { "model": "lt2:cherry_bark" }
-    }
+    "multipart": [
+        {   "apply": { "model": "lt2:fence_cherry_post" }},
+        {   "when": { "north": "true" },
+            "apply": { "model": "lt2:fence_cherry_side", "uvlock": true }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "lt2:fence_cherry_side", "y": 90, "uvlock": true }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "lt2:fence_cherry_side", "y": 180, "uvlock": true }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "lt2:fence_cherry_side", "y": 270, "uvlock": true }
+        }
+    ]
 }

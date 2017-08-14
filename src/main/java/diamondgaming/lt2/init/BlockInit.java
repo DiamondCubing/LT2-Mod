@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.registry.ForgeRegistries;
 
 public class BlockInit {
 	
-	//No doors
+	//No doors yet
 	public static Block log_cherry, planks_cherry, fence_cherry, fence_gate_cherry;
 	
 	public static void init() {

@@ -1,9 +1,7 @@
 {
     "variants": {
-        "axis=y":    { "model": "lt2:log_cherry" },
-        "axis=z":     { "model": "lt2:log_cherry", "x": 90 },
-        "axis=x":     { "model": "lt2:log_cherry", "x": 90, "y": 90 },
-        "axis=none":   { "model": "lt2:cherry_bark" }
-        "normal":   { "model": "lt2:cherry_bark" }
+        "axis=y": { "model": "lt2:log_cherry" },
+        "axis=z": { "model": "lt2:log_cherry", "x": 90 },
+        "axis=x": { "model": "lt2:log_cherry", "x": 90, "y": 90 }
     }
 }

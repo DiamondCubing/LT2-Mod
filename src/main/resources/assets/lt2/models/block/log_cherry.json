@@ -1,7 +1,7 @@
 {
-	"parent": "block/cube_column",
-	"textures": {
-	"end": "lt2:blocks/log_cherry_top",
-	"side": "lt2:blocks/log_cherry"
-	}
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "lt2:blocks/log_cherry_top",
+        "side": "lt2:blocks/log_cherry"
+    }
 }
