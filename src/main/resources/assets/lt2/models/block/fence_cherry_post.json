@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "lt2:blocks/planks_cherry"
+    }
+}
