@@ -15,7 +15,7 @@ import net.minecraftforge.fml.common.registry.ForgeRegistries;
 public class BlockInit {
 	
 	//No doors yet
-	public static Block log_cherry, planks_cherry, fence_cherry, fence_gate_cherry;
+	public static Block log_cherry, planks_cherry, fence_cherry, fence_gate_cherry, leaves_cherry;
 	
 	public static void init() {
 		
@@ -23,6 +23,7 @@ public class BlockInit {
 		planks_cherry = new CustomPlank("planks_cherry", 2.0F, 15.0F);
 		fence_cherry = new CustomFence("fence_cherry", 2.0F, 15.0F);
 		fence_gate_cherry = new CustomFenceGate("fence_gate_cherry", 2.0F, 15.0F);
+		leaves_cherry = new CustomBlock("leaves_cherry", 0.2F, 1.0F);
 		
 	}
 	
@@ -32,6 +33,7 @@ public class BlockInit {
 		registerBlock(planks_cherry);
 		registerBlock(fence_cherry);
 		registerBlock(fence_gate_cherry);
+		registerBlock(leaves_cherry);
 		
 	}
 	

@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "lt2:blocks/leaves_cherry"
+    }
+}
