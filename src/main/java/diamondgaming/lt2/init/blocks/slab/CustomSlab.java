@@ -28,7 +28,7 @@ public abstract class CustomSlab extends BlockSlab {
 		}
 		
 		setDefaultState(state);
-		useNeighborBrightness = true;
+		this.useNeighborBrightness = true;
 		
 	}
 	
@@ -76,7 +76,7 @@ public abstract class CustomSlab extends BlockSlab {
 	@Override
 	public int getMetaFromState(IBlockState state) {
 	
-		if(this.isDouble()) {
+		if(!this.isDouble()) {
 		
 			return 0;
 			
