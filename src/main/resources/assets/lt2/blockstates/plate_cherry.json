@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "lt2:plate_cherry_up" },
+        "powered=true": { "model": "lt2:plate_cherry_down" }
+    }
+}

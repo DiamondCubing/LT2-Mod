@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "lt2:slab_cherry_bottom" },
+        "half=top": { "model": "lt2:slab_cherry_top" }
+    }
+}

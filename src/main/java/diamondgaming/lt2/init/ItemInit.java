@@ -8,6 +8,8 @@ import net.minecraftforge.fml.common.registry.ForgeRegistries;
 
 public class ItemInit {
 	
+	public static Item sapling_cherry;
+	
 	public static void init() {
 		
 		
@@ -16,7 +18,7 @@ public class ItemInit {
 	
 	public static void register() {
 		
-		
+
 		
 	}
 	

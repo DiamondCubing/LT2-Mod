@@ -1,0 +1,7 @@
+{
+    "parent": "block/carpet",
+    "textures": {
+        "particle": "lt2:blocks/planks_cherry",
+        "wool": "lt2:blocks/planks_cherry"
+    }
+}

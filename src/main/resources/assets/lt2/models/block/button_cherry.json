@@ -1,0 +1,6 @@
+{
+    "parent": "block/button",
+    "textures": {
+        "texture": "lt2:blocks/planks_cherry"
+    }
+}

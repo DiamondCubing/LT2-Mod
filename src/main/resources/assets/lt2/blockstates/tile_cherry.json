@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "color=white": { "model": "lt2:tile_cherry" }
+    }
+}
