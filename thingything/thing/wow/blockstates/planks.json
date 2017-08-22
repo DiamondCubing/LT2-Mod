@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "variant=cherry": { "model": "lt2:planks_cherry" },
+        "variant=elm": { "model": "lt2:planks_elm" },
+        "variant=lava": { "model": "lt2:planks_lava" },
+        "variant=walnut": { "model": "lt2:planks_walnut" },
+        "variant=fir": { "model": "lt2:planks_fir" },
+        "variant=pine": { "model": "lt2:planks_pine" },
+        "variant=gold": { "model": "lt2:planks_gold" },
+        "variant=zombie": { "model": "lt2:planks_zombie" },
+        "variant=palm": { "model": "lt2:planks_palm" },
+        "variant=cavecrawler": { "model": "lt2:planks_cavecrawler" },
+        "variant=spook": { "model": "lt2:planks_spook" },
+        "variant=sinister": { "model": "lt2:planks_sinister" },
+        "variant=end_times": { "model": "lt2:planks_end_times" },
+        "variant=snowglow": { "model": "lt2:planks_snowglow" }
+    }
+}
