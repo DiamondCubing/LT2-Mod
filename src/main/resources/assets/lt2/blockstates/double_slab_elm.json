@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "lt2:planks_elm" },
+        "half=bottom": { "model": "lt2:planks_elm" }
+    }
+}

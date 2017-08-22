@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_gate_open",
+    "textures": {
+        "texture": "lt2:blocks/planks_elm"
+    }
+}

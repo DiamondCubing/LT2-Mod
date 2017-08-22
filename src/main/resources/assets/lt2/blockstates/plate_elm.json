@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "lt2:plate_elm_up" },
+        "powered=true": { "model": "lt2:plate_elm_down" }
+    }
+}

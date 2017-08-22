@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "lt2:blocks/door_elm_lower",
+        "top": "lt2:blocks/door_elm_upper"
+    }
+}

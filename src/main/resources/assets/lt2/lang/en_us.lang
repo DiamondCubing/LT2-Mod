@@ -3,8 +3,26 @@ tile.leaves_cherry.name=Cherry Leaves
 tile.button_cherry.name=Cherry Button
 tile.fence_gate_cherry.name=Cherry Fence Gate
 tile.stair_cherry.name=Cherry Stairs
-tile.slab_cherry.name=Cherry Slab
 tile.fence_cherry.name=Cherry Fence
 tile.planks_cherry.name=Cherry Planks
 tile.plate_cherry.name=Cherry Pressure Plate
 tile.tile_cherry.name=Cherry Tile
+tile.slab_cherry.name=Cherry Slab
+
+tile.log_elm.name=Elm Log
+tile.leaves_elm.name=Elm Leaves
+tile.button_elm.name=Elm Button
+tile.fence_gate_elm.name=Elm Fence Gate
+tile.stair_elm.name=Elm Stairs
+tile.fence_elm.name=Elm Fence
+tile.planks_elm.name=Elm Planks
+tile.plate_elm.name=Elm Pressure Plate
+tile.tile_elm.name=Elm Tile
+tile.slab_elm.name=Elm Slab
+
+tile.tile_oak.name=Oak Tile
+tile.tile_spruce.name=Spruce Tile
+tile.tile_birch.name=Birch Tile
+tile.tile_dark_oak.name=Dark Oak Tile
+tile.tile_jungle.name=Jungle Tile
+tile.tile_acacia.name=Acacia Tile

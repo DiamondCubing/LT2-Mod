@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "lt2:log_elm" },
+        "axis=z": { "model": "lt2:log_elm", "x": 90 },
+        "axis=x": { "model": "lt2:log_elm", "x": 90, "y": 90 }
+    }
+}
